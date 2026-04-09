@@ -1,0 +1,5 @@
+{
+  "name": "ClinicVox",
+  "description": "Dashboard SaaS para clínicas com atendimento automatizado por IA, agendamento inteligente e link na bio.",
+  "requestFramePermissions": []
+}
